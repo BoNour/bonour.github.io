@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Whizi Field Notes</title>
+  <link>https://whizi.io/</link>
+  <atom:link href="https://bonour.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en</language>
+  <copyright>Whizi</copyright>
+  <description>Short, plain answers on which AI model to use for what: Claude, ChatGPT, Gemini, Grok and the rest, compared on real tasks by the team behind Whizi.</description>
+  <itunes:author>Whizi</itunes:author>
+  <itunes:summary>Short, plain answers on which AI model to use for what: Claude, ChatGPT, Gemini, Grok and the rest, compared on real tasks by the team behind Whizi.</itunes:summary>
+  <itunes:owner>
+    <itunes:name>Whizi</itunes:name>
+    <itunes:email>whizihelp@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://bonour.github.io/podcast/cover.jpg"/>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Gemini vs Grok: two different bets on knowing things first</title>
+    <itunes:title>Gemini vs Grok: two different bets on knowing things first</itunes:title>
+    <link>https://whizi.io/resources/gemini-vs-grok/</link>
+    <guid isPermaLink="false">whizi-field-notes-0001-gemini-vs-grok</guid>
+    <pubDate>Tue, 06 Oct 2026 22:37:34 +0000</pubDate>
+    <description><![CDATA[<p>Gemini wins on documents, images, long context and Google apps. Grok wins on the last few hours of public conversation, because it reads X posts live.</p><p>Full guide: <a href="https://whizi.io/resources/gemini-vs-grok/">Gemini vs Grok</a>. Prices per model: <a href="https://whizi.io/tools/model-cost-index/">AI model cost index</a>.</p>]]></description>
+    <enclosure url="https://bonour.github.io/podcast/gemini-vs-grok.mp3" length="964649" type="audio/mpeg"/>
+    <itunes:duration>120</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
